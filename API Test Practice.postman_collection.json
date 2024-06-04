@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "c7ea7cce-c498-4875-b408-1e46719d3671",
+		"name": "API Test Practice",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5057330"
+	},
+	"item": [
+		{
+			"name": "Fixture by ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
